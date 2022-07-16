@@ -4,4 +4,4 @@ Olá! Meu nome é Maria Carolina Boudreaux, mas pode me chamar de @mcboudreaux, 
 ## Links de contato:
 
 LinkedIn: [Maria Carolina Boudreaux](https://www.linkedin.com/in/maria-carolina-boudreaux-79329b201/)
-Email: [mariacarolinabrd@gmail](mariacarolinabrd@gmail.com)
+Email: mariacarolinabrd@gmail
