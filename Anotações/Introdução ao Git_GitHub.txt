@@ -1,0 +1,16 @@
+Criar novo repositório local
+cd /path/
+git int
+
+Clonar repositório servidor
+git clone URL
+
+
+git remote add origin URL
+git remote -v
+git status //checar status
+
+
+git add .//adiciona os aquivos no repositório local
+git commit -m "Mensagem"//cria commit
+git push origin main//"empurar arquivos remotos para a nuvem"
